@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 
 
-public class Comparators {
+public class ComparatorDemo {
 	public static void main(String[] args) {
 		ArrayList<Item> items = new ArrayList<Item>();
 		items.add(new Item("Wrench", 11, 16, 54));
