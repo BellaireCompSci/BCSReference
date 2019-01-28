@@ -41,7 +41,7 @@ public class ComparatorDemo {
 		}
 	}
 
-	public static class Item {
+	private static class Item {
 		public String name;
 		public int utility;
 		public int weight;

@@ -1,3 +1,5 @@
+package examples;
+
 import java.util.*; 
  class UnaryIncrementExample{
    public static void main (String[] args){

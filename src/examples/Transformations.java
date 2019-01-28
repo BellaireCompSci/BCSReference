@@ -1,4 +1,4 @@
-import java.util.*;
+package examples;
 
 public class Transformations {
 	//assuming rectangle shapes

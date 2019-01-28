@@ -1,5 +1,8 @@
-import java.util.*; 
- class Linked Arrays{
+package examples;
+
+import java.util.Arrays;
+
+public class LinkedArrays{
    public static void main (String[] args){
      int[] a = {1,2,3,4,5};
      int[] b = a; //b will now point to the data point where a is instead of creating a new instance.
