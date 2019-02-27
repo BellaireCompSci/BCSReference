@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ProblemTemplate {
 	// CHANGE FILE NAME FOR EACH PROBLEM!
-	private static final String inputFileName = "filename.in";
+	private static final String inputFileName = "FILENAME.in";
 	private static Scanner in;
 
 	public static void main(String[] args) throws FileNotFoundException {
